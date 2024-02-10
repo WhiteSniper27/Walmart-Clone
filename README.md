@@ -17,7 +17,22 @@ bun dev
 - Tailwind Css
 - Oxylabs  
 - Shadcn
-- Zustand
+- Zustand 
+
+
 
 
   
+## Key Featurs
+
+- Parallel Intercepting
+- Paralle ROuting
+- Dynamic Imports
+- Server Side Rendering(SSR) / Static Site Generation(SSG)
+- Code Splitting with dynamic imports
+- Image Optimization using next/image
+- Dark Mode Support
+- Responsive Design
+- SEO Friendly
+- PWA Ready
+- Easy to Deploy

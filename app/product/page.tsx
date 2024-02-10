@@ -18,6 +18,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table"
+import AddToCart from "@/components/AddToCart";
 
 
 
@@ -113,6 +114,7 @@ async function ProductPage({ searchParams: { url } }: Props) {
           </p>
 
           {/* Add to Cart Button */}
+          <AddToCart product={product}/>
 
           <hr />
 
