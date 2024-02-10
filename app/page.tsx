@@ -6,7 +6,7 @@ export default function Home() {
     <main>
       <div className="grid grid-cols-1 grid-flow-row-dense md:grid-cols-4 gap-6 m-6">
       <GridOption
-        title="Sweet gifts for kids"
+        title="Sweet gifts for less"
         image="/Sweetgifts.jfif"
         className="bg-pink-200 h-full md:h-32"
       />
