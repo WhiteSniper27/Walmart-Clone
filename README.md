@@ -36,3 +36,11 @@ bun dev
 - SEO Friendly
 - PWA Ready
 - Easy to Deploy
+
+## Demo Video
+
+
+
+[Till Product page](https://github.com/vaibhav1281/Walmart-Clone/assets/93854530/3653ecf0-f07f-4b6b-8d45-dfb536120d20)
+
+
