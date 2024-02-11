@@ -50,7 +50,6 @@ This project implements the following features:
 - **Server Side Rendering (SSR) / Static Site Generation (SSG)**: Improves performance and SEO by pre-rendering pages on the server.
 - **Code Splitting with Dynamic Imports**: Further optimizes the application by splitting the code into smaller chunks that are loaded on demand.
 - **Image Optimization using next/image**: Automatically optimizes images to improve performance and user experience.
-- **Dark Mode Support**: Provides a dark mode for better usability in low-light conditions.
 - **Responsive Design**: Ensures the application looks great on devices of all sizes.
 - **SEO Friendly**: Built with SEO best practices to help your site rank higher in search engine results.
 - **PWA Ready**: Can be installed as a Progressive Web App for a native-like experience on mobile devices.
