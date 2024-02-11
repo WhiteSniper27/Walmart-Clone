@@ -8,7 +8,7 @@ export default function Home() {
       <GridOption
         title="Sweet gifts for less"
         image="/Sweetgifts.jfif"
-        className="bg-pink-200 h-full md:h-32"
+        className="bg-pink-200 h-full md:h-32 max-sm:col-span-2"
       />
 
         <GridOption
@@ -60,12 +60,12 @@ export default function Home() {
           <GridOption
             title="Enjoy Free Shipping"
             image="/EnjoyFreeShipping.jfif"
-            className="bg-rose-100 h-64"
+            className="bg-rose-100 h-64 max-sm:col-span-2"
            />
           <GridOption
             title="Flash Deals"
             image="/FlashDeals.jpeg"
-            className="bg-orange-200 h-64 col-span-2"
+            className="bg-orange-200 h-64 col-span-2 xl:col-span-4"
           />
       </div>
     </main>
