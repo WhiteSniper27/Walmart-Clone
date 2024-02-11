@@ -79,6 +79,12 @@ This project implements the following features:
 You can view a demo video of the product page here.
 [Till Product page](https://github.com/vaibhav1281/Walmart-Clone/assets/93854530/3653ecf0-f07f-4b6b-8d45-dfb536120d20)
 
+
+https://github.com/vaibhav1281/Walmart-Clone/assets/93854530/25f1e8a6-3a16-4417-9c50-934afd179e2c
+
+
+
+
 ## Screenshots
 ![Home Page](./public/HomePage.png "Home Page")
 ![Scriping Data from Oxylabs](./public/ScripingData.png "Scriping Data from Oxylabs")
