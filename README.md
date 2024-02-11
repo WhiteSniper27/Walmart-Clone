@@ -8,7 +8,25 @@ To get the project up and running on your local machine, follow these steps:
 
 1. Clone this repository by running `git clone https://github.com/vaibhav1281/Walmart-Clone.git` in your terminal.
 2. Navigate to the project directory by running `cd walmart-clone`.
-3. Install all necessary dependencies by running one of the following commands:
+
+- To get started with the project, you need to configure your environment variables in a `.env.local` file. Here's how you can do it:
+
+3. Create a new file in the root directory of your project and name it `.env.local`.
+
+4. Open the `.env.local` file and add the following lines:
+
+    ```plaintext
+    OXYLABS_USERNAME=NhiBataunga
+    OXYLABS_PASSWORD=KyuBhai
+    ```
+
+    Replace `NhiBataunga` and `KyuBhai` with your actual Oxylabs username and password.
+
+5. Save the `.env.local` file. Now, your application can access these environment variables via `process.env`.
+
+Please note that you should never commit your `.env.local` file to the version control system. It contains sensitive data which should not be shared publicly. Make sure to add `.env.local` to your `.gitignore` file.
+
+6. Install all necessary dependencies by running one of the following commands:
     ```bash
         npm install
         # or
@@ -18,7 +36,7 @@ To get the project up and running on your local machine, follow these steps:
         # or
         bun install
     ```
-4. Once installed, you can start developing your application by running one of the following commands:
+7. Once installed, you can start developing your application by running one of the following commands:
     ```bash
         npm run dev
         # or
@@ -60,3 +78,13 @@ This project implements the following features:
 
 You can view a demo video of the product page here.
 [Till Product page](https://github.com/vaibhav1281/Walmart-Clone/assets/93854530/3653ecf0-f07f-4b6b-8d45-dfb536120d20)
+
+## Screenshots
+![Home Page](./public/HomePage.png "Home Page")
+![Scriping Data from Oxylabs](./public/ScripingData.png "Scriping Data from Oxylabs")
+![Search Results](./public/SearchResults.png "Search Results")
+![Shimmer UI](./public/ProductDetailLoadingPage.png "Shimmer UI")
+![Product Detail Page](./public/ProductDetailPage.png "Product Detail Page")
+![Soft Navigation](./public/softnavCart.png "Soft Navigation")
+![Car/Basket Page](./public/cart-Basket.png "Car/Basket Page")
+![Empty Car/Basket Page](./public/EmptyBasket.png "Empty Car/Basket Page")
